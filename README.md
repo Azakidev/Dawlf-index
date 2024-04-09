@@ -30,3 +30,6 @@ Traits are features a specific dawlf may have regardless of their species, such 
 Breeds of dawlfs come from the set of features, or lack thereof that make them stand out over the other breeds, they always come together and much broader in scope.
 
 The list of traits a dawlf may have depends on the breed they are, as listed by the "Traits" section in each breed's document.
+
+#### Note :)
+This repository, and dawlfs, is licensed under the CC BY-NC-SA 4.0 license
