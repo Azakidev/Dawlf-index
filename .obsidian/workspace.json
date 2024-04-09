@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8e0df067b864958f",
+        "id": "43f369aad9bc9687",
         "type": "tabs",
         "children": [
           {
-            "id": "8c6f795f37f35128",
+            "id": "e55e3bd85a34cfc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Trivia.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "ffe39aabc5d53953",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Trivia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Trivia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +133,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Trivia.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,11 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c6f795f37f35128",
+  "active": "e55e3bd85a34cfc7",
   "lastOpenFiles": [
+    "README.md",
     "Laraybis/1. Layout.canvas",
     "Glossary.md",
-    "README.md",
     "Trivia.md",
     "Anatomy/Gems.md",
     "Anatomy/Tail.md",
