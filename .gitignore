@@ -1,7 +1,13 @@
+#Obsidian stuff
+.obsidian/themes/
+.obsidian/workspace.json
+.obsidian/appearance.json
+
 #Folders
-.obsidian/
 Project files/
 
 #They're not ready yet :)
 Trivia.md
 Glossary.md
+Resources.md
+TO-DO.md
