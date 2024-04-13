@@ -9,7 +9,7 @@
 		{"id":"0c264f01dfa20e97","type":"file","file":"Laraybis/Agonia.md","x":80,"y":-1280,"width":400,"height":400,"color":"5"},
 		{"id":"d85168be03d04a33","type":"file","file":"Laraybis/Sirroma.md","x":80,"y":760,"width":400,"height":400,"color":"3"},
 		{"id":"b4c329650f49228e","type":"file","file":"Laraybis/Dolfare liza.md","x":1080,"y":-240,"width":400,"height":400,"color":"6"},
-		{"id":"ce1a19ef35de8bde","type":"text","text":"- Yellow means above\n- Blue means underground\n- Purple means it's a small landmass","x":1051,"y":910,"width":458,"height":100}
+		{"id":"ce1a19ef35de8bde","type":"text","text":"- Yellow means above\n- Blue means underground\n- Purple means it's a small landmass","x":1080,"y":880,"width":458,"height":100}
 	],
 	"edges":[
 		{"id":"e0cf71b11b65e8c5","fromNode":"34fc013e413d7630","fromSide":"top","toNode":"e177024ab848ef57","toSide":"bottom"},
