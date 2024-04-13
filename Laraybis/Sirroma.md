@@ -5,7 +5,7 @@ A group of floating islands supported by clouds few kilometers above sea level. 
 It lacks any formal settlements, the only ones living in the islands are those working for [[Lakrimeo]] at the royal library and those taking care of the hitakis at their nests.
 ## Breeds native
 - [[Regular]]
-- [[Desert]]
+- [[Sand]]
 ## Landmarks and points of interest
 - The royal library
 - Umbral plaza
