@@ -5,7 +5,7 @@ These dawlfs are more powerful magically, slightly taller than the regular dawlf
 - Tail length: 40 - 55cm
 - #Original
 ## Origins
-These species, alongside the [[regular]] variant evolved from the original [[feral]] dawlfs back in ancient laraybisean times.
+These species, alongside the [[regular]] variant evolved from the original [[feral]] dawlfs back in ancient laraybean times.
 ## Traits
 - [ ] Can have [[pouches]]
 - [-] Can have [[horns]]

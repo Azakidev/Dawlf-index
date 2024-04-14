@@ -5,7 +5,7 @@ Larger than average, usually lanky with long limbs and much taller than any othe
 - Tail lengths: 50 - 60cm
 
 ## Origins
-Originated from the breeding of [[royal]] and [[regular]] long ago, the traits that made royals slightly taller happened to remain and become even more prevalent, eventually stabilizing and branching off bastard dawlfs into their own breed.
+Originated from the crossbreeding of [[royal]] and [[regular]] dawlfs long ago, the traits that made royals slightly taller happened to remain and become even more prevalent, eventually stabilizing and branching off [[bastard]] dawlfs into their own breed.
 ## Traits
 - [-] Can have [[pouches]]
 - [-] Can have [[horns]]

@@ -5,7 +5,7 @@ Regulars are the most basic and abundant version of dawlfs, often grouped with b
 - Tail length: 35 - 45 cm
 - #Original
 ## Origins
-These species, alongside the [[royal]] variant evolved from the original feral dawlfs back in ancient laraybisean times.
+These species, alongside the [[royal]] variant evolved from the original feral dawlfs back in ancient laraybean times.
 ## Traits
 - [-] Can have [[pouches]]
 - [-] Can have [[horns]]

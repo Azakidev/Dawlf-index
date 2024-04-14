@@ -7,7 +7,7 @@ Although they aren't considered endangered, their population is considerably sma
 - Tail length: 20 - 30cm
 - #Original
 ## Origins
-These breed is said to be the direct descendants from the original dawlfs created by the gods alongside Laraybis.
+This breed is said to be the direct descendants from the original dawlfs created by the gods alongside Laraybis.
 ## Traits
 - [ ] Can have [[pouches]]
 - [ ] Can have [[horns]]
