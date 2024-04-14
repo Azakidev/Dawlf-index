@@ -9,5 +9,6 @@ There are no settlements in this region, the only ones living here are the feral
 - [[Feral]]
 ## Landmarks and points of interest
 - Dolfare sanctorio
+	A sanctuary to feral dawlfs. It's placed near a natural spring of water in the middle of a forest, a couple of places to sit down, and not much else. It's the only place in the island, besides the bridge leading up to it, that has been touched by anthro dawlfs.
 ## Connects to
 - [[Altareon]]

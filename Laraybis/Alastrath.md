@@ -9,8 +9,14 @@ North-west of Quarterrimo.
 - [[Royal]]
 - [[Giant]]
 ## Landmarks and points of interest
-- placeholder
+- Lateur volcano
+	The largest of the island, somewhat active.
+- Slataur volcano
+	The closest one to Furare, inactive.
+- Agonia-Alastrath tunnel
+	An artificial tunnel, used by the military for transport and not much else since it runs rather hot due to the volcanic activity
 ## Connects to
 - [[Altareon]]
 - [[Quarterrimo]]
 - [[Armatreus]]
+- [[Agonia]]
