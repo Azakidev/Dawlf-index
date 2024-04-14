@@ -1,4 +1,4 @@
-These dawlfs grow horns, there are several ways these can grow in many shapes, some include:
+These dawlfs grow horns, there are several ways and shapes these can grow in, some include:
 - Around the ears
 - Pointed upwards and away from each other
 - Short and pointy nubs

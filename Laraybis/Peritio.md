@@ -12,11 +12,11 @@ South-east of Quarterrimo.
 - Curatia cliffs
 	A wall of cliffs lining the east coast of Peritio.
 - The wasteland
-	It's a section of the desert where the great dawlf war was said to happen, the ones lost to it were buried there.
+	It's a section of the desert where the great dawlf war is said to have happened, the ones lost to it were buried there.
 - Shralama oasis
-	A small lake with an oasis surrounding it. A popular tourist attraction, especially because of the trading posts located nearby and having the train station by it's side.
+	A small lake with an oasis surrounding it. A popular tourist attraction, especially because of the trading posts located nearby and it's proximity to the train station.
 - The tower of spirits
-	In the center of the town, the large tower stands tall, visible from anywhere in the island and potentially even from other islands. It imposing when standing at the base of it, although not many can access it.
+	In the center of the town, the large tower stands tall, visible from anywhere on the island and potentially even from other islands. It is imposing when standing at the base of it, although not many can access it.
 ## Connects to
 - [[Altareon]]
 - [[Quarterrimo]]

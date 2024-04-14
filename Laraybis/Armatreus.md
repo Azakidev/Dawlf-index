@@ -1,4 +1,4 @@
-Armatreus is the second most populated area, it's land coated in greenery, rolling hills, and towns lining the river that runs through it and the large lake at the end of it.
+Armatreus is the second most populated area, its land coated in greenery, rolling hills, and towns lining the river that runs through it and the large lake at the end of it.
 ## Location
 South-east of Quarterrimo.
 ## Settlements

@@ -6,5 +6,5 @@ A short description goes here.
 ## Origins
 Lorem ipsum dolor sit amet.
 ## Traits
-- [ ] Can have [[pouches]]
-- [ ] Can have [[horns]]
+- [ ] Can have [[Pouches]]
+- [ ] Can have [[Horns]]
