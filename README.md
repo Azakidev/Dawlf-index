@@ -1,7 +1,7 @@
 # Dawlf index
 This repository/obsidian vault contains all the information about the dolfare (dawlf) as a species, the world they inhabit, their anatomy, and all of the information about them, including some concept art.
 
-Dawlfs are an open furry species originally designed by me, FatDawlf.
+Dawlfs are an open furry species originally designed by me, [FatDawlf](https://azakidev.github.io).
 However, contributions to the species is both welcome and encouraged, though it is not guaranteed things will be added.
 
 ### Neat, I want one!
@@ -15,15 +15,15 @@ If you have an idea for the species, you may contact me to discuss it directly, 
 
 Whenever you're contributing, make sure to use the templates provided and follow the style present in the other entries.
 
-| Contribution                             | Chance of addition                 |
-| ---------------------------------------- | ---------------------------------- |
-| A new breed                              | Encouraged                         |
-| New traits                               | Highly encouraged                  |
-| New places on Laraybis                   | Encouraged                         |
-| New landmasses in Laraybis               | Will not be added 99% of the times |
-| Alternatives for already existing traits | Highly encouraged                  |
-| Historic events on Laraybis              | Will not be added                  |
-| Not listed?                              | Feel free to ask                   |
+| Contribution                             | Chance of addition |
+| ---------------------------------------- | ------------------ |
+| A new breed                              | Encouraged         |
+| New traits                               | Highly encouraged  |
+| New places on Laraybis                   | Encouraged         |
+| New landmasses in Laraybis               | Will not be added  |
+| Alternatives for already existing traits | Highly encouraged  |
+| Historic events on Laraybis              | Will not be added  |
+| Not listed?                              | Feel free to ask   |
 ### What is a trait and what is a breed?
 Traits are features a specific dawlf may have regardless of their species, such as horns, pouches, and other such things you may see in nature or sci-fi creatures.
 
