@@ -14,6 +14,7 @@ Each breed has it's own distinct spin on top of the [[regular]] dawlf, which is 
 - [[Sand]], who are adapted to heat
 - [[Aquatic]], who are adapted to water
 - [[Feral]], who are the oldest
+- [[Bastard]], who are unstable
 
 ---
 # Traits
