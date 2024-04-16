@@ -24,6 +24,8 @@ Whenever you're contributing, make sure to use the templates provided and follow
 | Alternatives for already existing traits | Highly encouraged  |
 | Historic events on Laraybis              | Will not be added  |
 | Not listed?                              | Feel free to ask   |
+
+Discussion can be done in my [discord server](https://discord.gg/NTWeKgNUAw).
 ### What is a trait and what is a breed?
 Traits are features a specific dawlf may have regardless of their species, such as horns, pouches, and other such things you may see in nature or sci-fi creatures.
 
@@ -31,5 +33,5 @@ Breeds of dawlfs come from the set of features, or lack thereof that make them s
 
 The list of traits a dawlf may have depends on the breed they are, as listed by the "Traits" section in each breed's document.
 
-#### Note :)
+### Licensing
 This repository, and dawlfs, is licensed under the CC BY-NC-SA 4.0 license
