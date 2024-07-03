@@ -8,7 +8,7 @@ It lacks any formal settlements, the only ones living in the islands are those w
 - [[Sand]]
 ## Landmarks and points of interest
 - The royal library
-	This library is considered the bastion of knowledge on Laraybis, containing the original copy to every document, book, or record ever made with the purpose of having a central archive of all dawlf related things.
+	This library is considered the bastion of knowledge on Laraybis. It contains the original copy to every document, book, or record ever made with the purpose of having a central archive of all knowledge.
 - Umbral plaza
 	A plaza at the center of the islands. Anyone who enters Laraybis must arrive there first.
 - Hitaki nests

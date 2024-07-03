@@ -1,6 +1,6 @@
 Larger than average, usually lanky with long limbs and much taller than any other breed.
 ## Stats
-- Heights: 1.5 -1.8 m
+- Heights: 1.5 - 1.8 m
 - Weights: Same as [[regular]]
 - Tail lengths: 50 - 60cm
 

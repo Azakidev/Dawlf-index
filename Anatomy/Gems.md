@@ -1,6 +1,7 @@
 Each dawlf is born with a gem-like object disconnected yet stuck tightly in one of their limbs, which grows alongside the dawlf through their life.
 ## Appearance
-This gem is made of a smooth, bone-like material and is the same color as the pupil of the eye closest to it (If it's bright red and on the right arm, the right eye's pupil will be the one colored bright red).
+This gem is made of a smooth, bone-like material and is the same color as the pupil of the eye closest to it.
+    Ex: If it's bright red and on the right arm, the right eye's pupil will be the one colored bright red.
 
 The gem can take many shapes and sizes, it's a built in accessory of the dawlf and some are very prideful of it's shape, color, or shininess.
 
