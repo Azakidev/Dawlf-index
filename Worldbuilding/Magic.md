@@ -19,3 +19,13 @@ It's the kind of magic that [[Stars]] use.
 
 It works on a request-reply system between the Star and the gods for a direct modification of the universe.
 They're essentially miracles, and therefore only bound by the gods rejecting the request.
+
+---
+# Spellcasting
+It's a kind of magic that, like affinities, anyone can use.
+Spells are the closest thing to traditional magic and the least well defined of them all.
+
+They require specific circumstances to be cast, usually involving some materials, incantatons and an environment to cast the spell.
+They are, however, rather powerful and have the ability to persist through time much longer than affinities. A spell can affect an area, one or more individuals, or can even make a portal.
+
+It's inner workings are unknown and the rituals are rather dogmatic in nature, as the requirements for a cast are seemingly arbitrary and random. These rituals are kept in spellbooks and other papers and depending on the people it can be a science or a religion depending on how they approach their attempts at understanding. It is however one more set of rules the universe abides by, it's just one without sense.
